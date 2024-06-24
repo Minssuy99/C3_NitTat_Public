@@ -8,7 +8,7 @@
 ### 에셋 목록
 
 <details open>
-<summary> ⚔ Character</summary>
+<summary> 🦝 Character</summary>
  
 - <a href="https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art" target="_blank">Free Tiny Hero</a>
 
