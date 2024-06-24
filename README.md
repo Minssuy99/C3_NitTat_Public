@@ -17,7 +17,7 @@
 <!------------------------------------------------------------------------------------------------------------------------->
 
 <details open>
-<summary> 🏕 Environment</summary>
+<summary> 🌼 Environment</summary>
  
 - <a href="https://essssam.itch.io/rocky-roads" target="_blank">Rocky Roads</a>
 
@@ -27,7 +27,7 @@
 <!------------------------------------------------------------------------------------------------------------------------->
 
 <details open>
-<summary> 🎸 Sound</summary>
+<summary> 🎧 Sound</summary>
  
 - <a href="naver.com" target="_blank">Example Music</a>
 
@@ -144,24 +144,24 @@
 </br>
 
 ## ✔ 주요 기능
-#### 📦 시작화면 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/1.-%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
+#### ✍🏻 시작화면 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/1.-%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
 - 게임시작
 - 환경설정
 - 게임종료
  
-#### 📦 로비화면 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/2.-%EB%A1%9C%EB%B9%84%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
+#### ✍🏻 로비화면 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/2.-%EB%A1%9C%EB%B9%84%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
 - 닉네임 설정
 - 방 생성 및 참가
 
-#### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0" target="_blank">상세보기 WIKI 이동</a>]
+#### ✍🏻 캐릭터 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0" target="_blank">상세보기 WIKI 이동</a>]
 - 캐릭터 움직임
 - 캐릭터 상호작용
 
-#### 📦 맵 디자인 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/4.-%EB%A7%B5-%EB%94%94%EC%9E%90%EC%9D%B8" target="_blank">상세보기 WIKI 이동</a>]
+#### ✍🏻 맵 디자인 [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/4.-%EB%A7%B5-%EB%94%94%EC%9E%90%EC%9D%B8" target="_blank">상세보기 WIKI 이동</a>]
 - 맵 장애물 효과
 - 아이템 기믹
 
-#### 📦 UI [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
+#### ✍🏻 UI [<a href="https://github.com/Minssuy99/C3_NitTat_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
 - 애니메이션 및 전환 효과
 - 소리조절 및 해상도 변경
 
