@@ -1,5 +1,5 @@
 # 🤟 C3_상부상조_NitTat
-![배너](https://github.com/Minssuy99/C3_NitTat_Public/assets/101568505/3c11ce17-9554-4c93-9cf4-faa5e104500f)
+![gaoinsnfeosinfaosen](https://github.com/Minssuy99/C3_NitTat_Public/assets/101568505/b29540e6-7f2c-4062-8cc6-a80c3be7f935)
 
 프로젝트를 깃허브에 업로드했으나, 사용된 에셋 패키지들은
 
