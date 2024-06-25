@@ -101,18 +101,68 @@
 ### 🗂 C11_Project_Public
 
 <details>
-<summary> 📁 Animator</summary>
+<summary> 📁 Animation</summary>
  
-  * 🏃‍♀️ ___Sample.controller___
+  * 🏃‍♀️ ___BirdFlying.anim___
+  * 🏃‍♀️ ___F_Move.anim___
+  * 🏃‍♀️ ___FootBoard.anim___
+  * 🏃‍♀️ ___I_Move.anim___
+  * 🏃‍♀️ ___I_idle.anim___
+  * 🏃‍♀️ ___Idle.anim___
+  * 🏃‍♀️ ___InputField_Shaking.anim___
+  * 🏃‍♀️ ___Jump.anim___
+  * 🏃‍♀️ ___Lighting.anim___
+  * 🏃‍♀️ ___Lightning.anim___
+  * 🏃‍♀️ ___Loading_Run.anim___
+  * 🏃‍♀️ ___Loading_Run2.anim___
+  * 🏃‍♀️ ___Loading_Run3.anim___
+  * 🏃‍♀️ ___Push.anim___
+  * 🏃‍♀️ ___Run.anim___
+  * 🏃‍♀️ ___ScaleUp.anim___
+  * 🏃‍♀️ ___StartSceneOption.anim___
+  * 🏃‍♀️ ___StartSceneOption.anim___
+  * 🏃‍♀️ ___Storm.anim___
+  * 🏃‍♀️ ___Thunder.anim___
 
  </details>
  
 <!------------------------------------------------------------------------------------------------------------------------->
 <details>
-<summary>📁 Prefabs</summary>
+<summary>📁 Animator</summary>
  
-  * 🕹 ___Sample.prefab___
+  * 🕹 ___Icicle.controller___
+  * 🕹 ___InputField.controller___
+  * 🕹 ___Loading_Run1.controller___
+  * 🕹 ___Loading_Run2.controller___
+  * 🕹 ___Loading_Run3.controller___
+  * 🕹 ___MainSprite1.controller___
+  * 🕹 ___MainSprite2.controller___
+  * 🕹 ___Movable_footbaord.controller___
+  * 🕹 ___PlyaerController.controller___
+  * 🕹 ___StartSceneOption.controller___
+  * 🕹 ___StartSceneText.controller___
+  * 🕹 ___Thunder.controller___
+  * 🕹 ___fireball.controller___
+  * 🕹 ___fireball_0.controller___
 
+  </details>
+
+ <!------------------------------------------------------------------------------------------------------------------------->
+
+<details>
+<summary>📁 InputAction</summary>
+ 
+  * 🎮 ___PlayerINput.inputactions___
+   
+  </details>
+  
+<!------------------------------------------------------------------------------------------------------------------------->
+
+<details>
+<summary>📁 Physics</summary>
+ 
+  * 🚀 ___PlayerPhisics.physicsMaterial2D___
+   
   </details>
   
 <!------------------------------------------------------------------------------------------------------------------------->
@@ -127,16 +177,20 @@
   
 <!------------------------------------------------------------------------------------------------------------------------->
 
+
 <details>
-<summary>📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts" target="_blank"> Scripts</a></summary>
+<summary>📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts" target="_blank"> Scripts</a></summary>
 
  </br>
 
- * 📁<a href="https://naver.com" target="_blank"> SampleFolder1</a>
- * 📁<a href="https://naver.com" target="_blank"> SampleFolder2</a>
- * 📁<a href="https://naver.com" target="_blank"> SampleFolder3</a>
- * 📁<a href="https://naver.com" target="_blank"> SampleFolder4</a>
- * 📁<a href="https://naver.com" target="_blank"> SampleFolder5</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/Class" target="_blank"> Class</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/Controller" target="_blank"> Controller</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/Gimic" target="_blank"> Gimic</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/Item" target="_blank"> Item</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/Managers" target="_blank"> Managers</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/Player" target="_blank"> Player</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/SingleTons" target="_blank"> SingleTons</a>
+ * 📁<a href="https://github.com/Minssuy99/C3_NitTat_Public/tree/main/Assets/Scripts/UIs" target="_blank"> UIs</a>
   
 
 
