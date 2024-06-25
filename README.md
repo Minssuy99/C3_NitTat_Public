@@ -132,11 +132,11 @@
 
  </br>
 
- * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Controller" target="_blank"> SampleFolder1</a>
- * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Craft" target="_blank"> SampleFolder2</a>
- * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Manager" target="_blank"> SampleFolder3</a>
- * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Player" target="_blank"> SampleFolder4</a>
- * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/UI" target="_blank"> SampleFolder5</a>
+ * 📁<a href="https://naver.com" target="_blank"> SampleFolder1</a>
+ * 📁<a href="https://naver.com" target="_blank"> SampleFolder2</a>
+ * 📁<a href="https://naver.com" target="_blank"> SampleFolder3</a>
+ * 📁<a href="https://naver.com" target="_blank"> SampleFolder4</a>
+ * 📁<a href="https://naver.com" target="_blank"> SampleFolder5</a>
   
 
 
