@@ -31,7 +31,7 @@
 <details open>
 <summary> 🎧 Sound</summary>
  
-- <a href="naver.com" target="_blank">Example Music</a>
+- <a href="https://assetstore.unity.com/packages/2d/characters/bolt-2d-jellyfarm-assets-pack-188722" target="_blank">Bolt 2D Jellyfarm Assets Pack</a>
 
  </details>
  
